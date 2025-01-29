@@ -1,7 +1,4 @@
 # Readme Generator
-# Readme Generator
-
-undefined
 
 ## Description
 This application rund in the command line. The application utilizes node.js to dynamically create a README file based off of the data collected from the user. 
@@ -32,5 +29,8 @@ Run the test using the following command: npm test
 
 ## Questions
 For any questions, please contact me at [sagostisi@gmail.com](mailto:sagostisi@gmail.com).
-GitHub: [Steve-Agostisi](https://github.com/Steve-Agostisi)
+GitHub: [Steve-Agostisi](https://github.com/Steve-Agostisi) 
+
+## Walkthrough Video 
+[https://drive.google.com/file/d/1sNaO08C7PDhEAaaKUwIhKtUorhPWuNKe/view?usp=sharing](#)
 

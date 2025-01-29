@@ -11,7 +11,8 @@ function renderLicenseBadge(license) {
     GPL: '![GPL License](https://img.shields.io/badge/license-GPL-blue.svg)',
     BSD: '![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)',
     // Add more licenses as needed
-  };
+  }; 
+  return licenseBadges[license] || '';
 }
 
 // TODO: Create a function that returns the license link
